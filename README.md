@@ -13,9 +13,9 @@
 |[C Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/CStructure.md)|
 |[C++ Basic I/O](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Cppio.md)|
 |[C++ Variable](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Variable.md)|
-|[C++ Data Types]()|
-|[C++ Keywords]()|
-|[]()|
+|[C++ Data Types](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/datatypes.md)|
+|[C++ Keywords](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Keywords.md)|
+|[C++ Operator]()|
 |[]()|
 |[]()|
 |[]()|
