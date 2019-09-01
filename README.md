@@ -11,7 +11,7 @@
 |[C++ History](https://github.com/connectaman/C-Notes-and-Programs/blob/master/C%2B%2B%20Basics/History.md)|
 |[C++ Features](https://github.com/connectaman/C-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Features.md)|
 |[C Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/CStructure.md)|
-|[C++ Basic I/O]()|
-|[C++ Variable]()|
+|[C++ Basic I/O](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Cppio.md)|
+|[C++ Variable](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Variable.md)|
 |[]()|
 
