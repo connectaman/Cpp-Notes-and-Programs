@@ -15,9 +15,9 @@
 |[C++ Variable](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Variable.md)|
 |[C++ Data Types](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/datatypes.md)|
 |[C++ Keywords](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Keywords.md)|
-|[C++ Operator]()|
-|[]()|
-|[]()|
+|[C++ Operator](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Operator.md)|
+|[C++ Control Statement]()|
+|[C++ if-else]()|
 |[]()|
 |[]()|
 |[]()|
