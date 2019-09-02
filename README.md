@@ -16,8 +16,8 @@
 |[C++ Data Types](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/datatypes.md)|
 |[C++ Keywords](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Keywords.md)|
 |[C++ Operator](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Operator.md)|
-|[C++ Control Statement]()|
-|[C++ if-else]()|
+|[C++ Control Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/tree/master/ControlStatement)|
+|[C++ if-else](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Control%20Statement/if-else.md)|
 |[]()|
 |[]()|
 |[]()|
