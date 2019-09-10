@@ -19,8 +19,8 @@
 |[C++ Control Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/tree/master/ControlStatement)|
 |[C++ if-else](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Control%20Statement/if-else.md)|
 |[C++ Switch](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Control%20Statement/switch.md)|
-|[C++ While Loop]()|
-|[]()|
+|[C++ While Loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/while.md)|
+|[C++ Do while loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Do-While.md)|
 |[]()|
 |[]()|
 |[]()|
