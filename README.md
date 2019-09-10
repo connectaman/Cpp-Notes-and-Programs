@@ -10,7 +10,7 @@
 |[C vs C++](https://github.com/connectaman/C-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Differencebtwcandcpp.md)|
 |[C++ History](https://github.com/connectaman/C-Notes-and-Programs/blob/master/C%2B%2B%20Basics/History.md)|
 |[C++ Features](https://github.com/connectaman/C-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Features.md)|
-|[C Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/CStructure.md)|
+|[C++ Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/CStructure.md)|
 |[C++ Basic I/O](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Cppio.md)|
 |[C++ Variable](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/Variable.md)|
 |[C++ Data Types](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/C%2B%2B%20Basics/datatypes.md)|
@@ -21,10 +21,10 @@
 |[C++ Switch](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Control%20Statement/switch.md)|
 |[C++ While Loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/while.md)|
 |[C++ Do while loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Do-While.md)|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[C++ For Loop]()|
+|[Break in C++]()|
+|[Continue in C++]()|
+|[C++ Goto Statement]()|
 |[]()|
 |[]()|
 |[]()|
