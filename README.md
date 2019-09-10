@@ -21,10 +21,10 @@
 |[C++ Switch](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Control%20Statement/switch.md)|
 |[C++ While Loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/while.md)|
 |[C++ Do while loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Do-While.md)|
-|[C++ For Loop]()|
-|[Break in C++]()|
-|[Continue in C++]()|
-|[C++ Goto Statement]()|
+|[C++ For Loop](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/forloop.md)|
+|[Break in C++](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Break.md)|
+|[Continue in C++](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Continue.md)|
+|[C++ Goto Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Goto.md)|
 |[]()|
 |[]()|
 |[]()|
