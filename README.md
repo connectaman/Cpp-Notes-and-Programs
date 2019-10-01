@@ -34,6 +34,6 @@
 |[Abstraction](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/abstraction.md)|
 |[NameSpace](https://github.com/connectaman/Cpp-Notes-and-Programs/tree/master/Namespace)|
 |[String](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/String/String.md)|
-|[Exception]()|
-|[Try-Catch]()|
+|[Exception](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Exception/Exception.md)|
+|[Try-Catch](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Exception/trycatch.md)|
 
