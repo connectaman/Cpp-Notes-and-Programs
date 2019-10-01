@@ -30,10 +30,10 @@
 |[]()|
 |[]()|
 |[]()|
-|[Interface]()|
-|[Abstraction]()|
-|[]()|
-|[]()|
+|[Interface](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/interface.md)|
+|[Abstraction](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/abstraction.md)|
+|[NameSpace]()|
+|[String]()|
 |[]()|
 |[]()|
 
