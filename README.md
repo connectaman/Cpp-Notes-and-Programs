@@ -27,12 +27,12 @@
 |[C++ Goto Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Goto.md)|
 |[Functions]()|
 |[Arrays]()|
-|[OOP's Concepts]()|
-|[Object and Class]()|
-|[Constrcutors]()|
-|[Destructor]()|
-|[this pointer and static keyword]()|
-|[Structure]()|
+|[OOP's Concepts](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/opps.md)|
+|[Object and Class](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/opps.md)|
+|[Constrcutors](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/Constructor.md)|
+|[Destructor](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/desctructor.md)|
+|[this pointer and static keyword](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/this.md)|
+|[Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/struct.md)|
 |[]()|
 |[]()|
 |[]()|
