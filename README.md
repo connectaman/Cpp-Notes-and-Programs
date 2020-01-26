@@ -26,7 +26,13 @@
 |[Continue in C++](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Continue.md)|
 |[C++ Goto Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Goto.md)|
 |[Functions]()|
-|[]()|
+|[Arrays]()|
+|[OOP's Concepts]()|
+|[Object and Class]()|
+|[Constrcutors]()|
+|[Destructor]()|
+|[this pointer and static keyword]()|
+|[Structure]()|
 |[]()|
 |[]()|
 |[]()|
