@@ -33,6 +33,14 @@
 |[Destructor](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/desctructor.md)|
 |[this pointer and static keyword](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/this.md)|
 |[Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/struct.md)|
+|[Enumeration]()|
+|[Friend Function]()|
+|[Inheritance]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
+|[]()|
 |[]()|
 |[]()|
 |[]()|
