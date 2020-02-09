@@ -25,7 +25,7 @@
 |[Break in C++](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Break.md)|
 |[Continue in C++](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Continue.md)|
 |[C++ Goto Statement](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Iterative/Goto.md)|
-|[Functions]()|
+|[Functions](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Functions/Functions.md)|
 |[Arrays]()|
 |[OOP's Concepts](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/opps.md)|
 |[Object and Class](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/opps.md)|
@@ -33,17 +33,10 @@
 |[Destructor](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/desctructor.md)|
 |[this pointer and static keyword](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/this.md)|
 |[Structure](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/struct.md)|
-|[Enumeration]()|
-|[Friend Function]()|
-|[Inheritance]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Enumeration](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/enum.md)|
+|[Friend Function](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/firend.md)|
+|[Inheritance](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Inheritance/inheritance.md)|
+|[Polymorphism]()|
 |[Interface](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/interface.md)|
 |[Abstraction](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/abstraction.md)|
 |[NameSpace](https://github.com/connectaman/Cpp-Notes-and-Programs/tree/master/Namespace)|
@@ -51,6 +44,3 @@
 |[Exception](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Exception/Exception.md)|
 |[Try-Catch](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Exception/trycatch.md)|
 |[File Handling](https://github.com/connectaman/Cpp-Notes-and-Programs)|
-|[]()|
-|[]()|
-|[]()|

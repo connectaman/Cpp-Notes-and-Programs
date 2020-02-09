@@ -10,11 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d0eae9a-4a1b-4c9f-954c-17ed3691ab47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Inheritance/inheritance.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP's/enum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP's/firend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism/polymorphism.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/String.md" beforeDir="false" afterPath="$PROJECT_DIR$/String/String.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,8 @@
       <workItem from="1569911585718" duration="1503000" />
       <workItem from="1569942822596" duration="512000" />
       <workItem from="1570097965883" duration="218000" />
-      <workItem from="1580015928677" duration="2460000" />
+      <workItem from="1580015928677" duration="3540000" />
+      <workItem from="1581219244312" duration="278000" />
     </task>
     <servers />
   </component>

@@ -26,7 +26,7 @@ C++
 
 -------
 
-##### C++ String Compare Example
+##### C++ String Access Example
 
 ```objectivec
 #include <iostream>  
@@ -34,13 +34,9 @@ C++
 using namespace std;  
 int main ()  
 {  
-  char key[] = "mango";  
-  char buffer[50];  
-  do {  
-     cout<<"What is my favourite fruit? ";  
-     cin>>buffer;  
-  } while (strcmp (key,buffer) != 0);  
- cout<<"Answer is correct!!"<<endl;  
+  string myString = "Hello";
+  myString[0] = 'J';
+  cout << myString; 
   return 0;  
 } 
 ```
@@ -62,15 +58,16 @@ Answer is correct!!
 using namespace std;  
 int main()  
 {  
-    char key[25], buffer[25];  
-    cout << "Enter the key string: ";  
-    cin.getline(key, 25);  
-    cout << "Enter the buffer string: ";  
-     cin.getline(buffer, 25);  
-    strcat(key, buffer);   
-    cout << "Key = " << key << endl;  
-    cout << "Buffer = " << buffer<<endl;  
-    return 0;  
+    string firstName = "John ";
+    string lastName = "Doe";
+    string fullName = firstName + lastName;
+    cout << fullName; 
+    //OR
+    string firstName = "John ";
+    string lastName = "Doe";
+    string fullName = firstName.append(lastName);
+    cout << fullName;
+    return 0;
 }
 ```
 output
@@ -117,8 +114,8 @@ Buffer = C++ Tutorial
     using namespace std;  
     int main()  
     {  
-        char ary[] = "Welcome to C++ Programming";  
-        cout << "Length of String = " << strlen(ary)<<endl;  
+        string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        cout << "The length of the txt string is: " << txt.length();
         return 0;  
     }  
 ```
