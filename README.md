@@ -36,7 +36,7 @@
 |[Enumeration](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/enum.md)|
 |[Friend Function](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/OOP's/firend.md)|
 |[Inheritance](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Inheritance/inheritance.md)|
-|[Polymorphism]()|
+|[Polymorphism](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Polymorphism/polymorphism.md)|
 |[Interface](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/interface.md)|
 |[Abstraction](https://github.com/connectaman/Cpp-Notes-and-Programs/blob/master/Abstraction/abstraction.md)|
 |[NameSpace](https://github.com/connectaman/Cpp-Notes-and-Programs/tree/master/Namespace)|
